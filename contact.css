@@ -1,0 +1,51 @@
+body{
+  padding-top: 90px;
+  font-family: 'Rubik', sans-serif;
+}
+
+div[class="icons"] a i{
+  color: #353638;
+  font-size:2em;
+  letter-spacing: .8rem;
+}
+
+.con{
+  color: #353638;
+  font-size: 1.4em;
+  font-weight:550;
+}
+
+h1{
+  font-weight: bold;
+  font-size: 3.5em;
+}
+
+#dont{
+  color: #325da3;
+  text-shadow: 0px 1px 1px black;
+}
+
+.gray{
+  color: gray;
+  font: 1em;
+  padding-top: 30px;
+}
+
+.icons{
+  padding-top: 50px;
+}
+
+input{
+  width: 50%;
+}
+
+form{
+  padding-top: 150px;
+}
+
+button[type="submit"]{
+  margin-top: 20px;
+}
+button[type="submit"]{
+  margin-bottom: 30px;
+}

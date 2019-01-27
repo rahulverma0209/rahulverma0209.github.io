@@ -1,0 +1,41 @@
+body{
+  /* background: url(http://www.baltana.com/files/wallpapers-2/Keyboard-Wallpapers-04244.jpg); */
+  /* background: url(https://www.wallpaperup.com/uploads/wallpapers/2014/07/21/401537/d51bb22ad6b2149b5c2354f7a5a166ec-700.jpg); */
+  background: url(image/background.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+html{
+  height: 100%;
+}
+
+#content{
+  font-family: 'Lato', sans-serif;
+  color: white;
+  text-align: center;
+  padding-top: 25%;
+  text-shadow: 0px 3px 3px black;
+}
+
+h1{
+  font-weight: bold;
+  font-size: 8em;
+}
+
+hr{
+  width: 70%;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid rbga(0,0,0,0.2);
+}
+
+div[class="icons"] a i{
+  color: white;
+  font-size:2em;
+  letter-spacing: .8rem;
+}
+
+
+/* .navbar{
+  height: 80px;
+} */
