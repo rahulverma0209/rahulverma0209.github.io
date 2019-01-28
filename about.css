@@ -1,0 +1,54 @@
+body{
+  padding-top: 70px;
+  padding-bottom: 90px;
+}
+
+.subhead{
+  font-weight: bold;
+  color: #29559b;
+  font-family: 'Roboto Slab', serif;
+}
+
+img[class="img-circle"]{
+  max-height: 150px;
+  max-width: 200px;
+  width:40%;
+  height: auto;
+  border: 2px solid black;
+}
+
+td[class="imgg"]{
+  text-align: center;
+}
+
+table{
+  margin-top: 50px;
+  width: 100%;
+}
+
+div[class="icons"] a i{
+  padding-top: 90px;
+  padding-bottom: 40px;
+  color: #353638;
+  font-size:2em;
+  letter-spacing: .8rem;
+}
+div[class="icons"] {
+  text-align: center;
+}
+
+h2,h4{
+  font-weight: bold;
+}
+
+.progress{
+  color: black;
+  max-height: 12px;
+  width:60%;
+  background-color: #c5c8cc;
+}
+
+.progress-bar{
+  font-size: 10px;
+  line-height: 10px;
+}
